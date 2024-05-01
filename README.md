@@ -33,7 +33,6 @@ npm install
 To start the development server, run:
 
 ```bash
-Copy code
 npm run start
 ```
 
@@ -44,7 +43,6 @@ This will launch the server with hot reloading at http://localhost:3000.
 To create a production build, run:
 
 ```bash
-Copy code
 npm run build
 ```
 
